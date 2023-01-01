@@ -2,7 +2,7 @@
   "name": "disko-url-spammer",
   "version": "3.6.1-0.4",
   "description": "URL'ye spam atan bot.",
-  "main": "ares.js",
+  "main": "DISCO.js",
   "dependencies": {
     "discord.js": "^12.5.1",
     "request": "^2.88.2"
